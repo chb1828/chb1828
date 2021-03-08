@@ -19,7 +19,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 ### 🛠 &nbsp;Tech Stack
 
-![Spring](https://img.shields.io/badge/-Python-05122A?style=flat&logo=spring)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
