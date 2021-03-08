@@ -42,7 +42,7 @@ I want to make difference and willing to work hard for skillful career rather th
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-**I Mostly Code in JavaScript** 
+**My languague proficiency** 
 
 ```text
 Spring                                       █████████████████████░░░░   80.02% 
@@ -50,7 +50,6 @@ Android                                      ███████████�
 Flutter                                      ██████████████████░░░░░░░   70.01%
 Python                                       ████████████░░░░░░░░░░░░░   47.39% 
 TypeScript                                   ██████████░░░░░░░░░░░░░░░   42.88%
-
 ```
 
 <strong>🔭 you can explore me here in details...</strong>
