@@ -32,7 +32,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/amazon_aws-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/b00tstrap.svg"> </code>
 <code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/firebase.svg"> </code>
-<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/google_maps.svg"> </code>
 <code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/html.svg"> </code>
   <code> <img height="40" src="https://github.com/chb1828/chb1828/blob/main/-/drf.png"> </code>
   <code> <img height="35" src="https://github.com/chb1828/chb1828/blob/main/-/spring.png"> </code>
