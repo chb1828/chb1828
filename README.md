@@ -13,29 +13,35 @@ I want to make difference and willing to work hard for skillful career rather th
 - 💬 Ask me about Spring
 - 📫 How to reach me: [chb1828@naver.com](chb1828@naver.com)
 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Facebook"/>](https://www.facebook.com/profile.php?id=100006522798742/) 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/uan_nabi)
+[<img src="https://github.com/chb1828/chb1828/blob/main/-/facebook-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Facebook"/>](https://www.facebook.com/profile.php?id=100006522798742/) 
+[<img src="https://github.com/chb1828/chb1828/blob/main/-/insta.png" height="30em" align="center" alt="Follow chb1828 on Insta"/>]() 
+[<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/14567482/chb)
 
 ## Experienced with 
 <p align="center" >
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/python-icon.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/dj.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/docker-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/git.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/linux-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/redis-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/mongodb-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/sqlite-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/mysql-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/postgresql-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/amazon_aws-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/b00tstrap.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/firebase.svg"> </code>
+<code> <img height="50" src="https://github.com/chb1828/chb1828/blob/main/-/html.svg"> </code>
+  <code> <img height="40" src="https://github.com/chb1828/chb1828/blob/main/-/drf.png"> </code>
+  <code> <img height="35" src="https://github.com/chb1828/chb1828/blob/main/-/spring.png"> </code>
 </p>
 
 
 
-<strong>🔭 you can start from here ...</strong>
+<strong>🔭 you can explore me here in details...</strong>
 
-<a href="https://github.com/uannabi/automatic-stock-trading-system-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=chb1828&repo=automatic-stock-trading-system-server" width=400> </a> 
+> https://www.bumtfolio.com/
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
