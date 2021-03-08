@@ -13,8 +13,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 💬 Ask me about Spring
 - 📫 How to reach me: [chb1828@naver.com](chb1828@naver.com)
 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/animus/) 
+[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Facebook"/>](https://www.facebook.com/profile.php?id=100006522798742/) 
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/uan_nabi)
 
