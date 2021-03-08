@@ -19,7 +19,6 @@ I want to make difference and willing to work hard for skillful career rather th
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/14567482/chb)
 
 
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
