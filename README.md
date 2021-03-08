@@ -40,9 +40,9 @@ I want to make difference and willing to work hard for skillful career rather th
 
 
 
-<strong>🔭 you can start from here ...</strong>
+<strong>🔭 you can explore me here in details...</strong>
 
-<a href="https://github.com/uannabi/automatic-stock-trading-system-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=chb1828&repo=automatic-stock-trading-system-server" width=400> </a> 
+> https://www.bumtfolio.com/
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
