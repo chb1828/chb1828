@@ -17,6 +17,7 @@ I want to make difference and willing to work hard for skillful career rather th
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/insta.png" height="30em" align="center" alt="Follow chb1828 on Insta"/>]() 
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/14567482/chb)
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
@@ -44,11 +45,11 @@ I want to make difference and willing to work hard for skillful career rather th
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+Spring                                       █████████████████████░░░░   80.02% 
+Android                                      ███████████████████░░░░░░   72.76% 
+Flutter                                      ██████████████████░░░░░░░   70.01%
+Python                                       ████████████░░░░░░░░░░░░░   47.39% 
+TypeScript                                   ██████████░░░░░░░░░░░░░░░   42.88%
 
 ```
 
