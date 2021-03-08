@@ -15,7 +15,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/facebook-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Facebook"/>](https://www.facebook.com/profile.php?id=100006522798742/) 
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/insta.png" height="30em" align="center" alt="Follow chb1828 on Insta"/>]() 
-[<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
+[<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/14567482/chb)
 
 ## Experienced with 
 <p align="center" >
