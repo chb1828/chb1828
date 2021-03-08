@@ -4,7 +4,7 @@
 
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges & I’ve completed my graduation from G-Tech year of 2020.
 <br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.giff" width="400px" />
 
 - 🔭 I’m currently working on ReturnTrue as web/app developer
 - 🌱 I’m currently interesting in flutter.
@@ -17,10 +17,9 @@ I want to make difference and willing to work hard for skillful career rather th
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/insta.png" height="30em" align="center" alt="Follow chb1828 on Insta"/>]() 
 [<img src="https://github.com/chb1828/chb1828/blob/main/-/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow chb1828 on Stackoverflow"/>](https://stackoverflow.com/users/14567482/chb)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
+![Spring](https://img.shields.io/badge/-Python-05122A?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
