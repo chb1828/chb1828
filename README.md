@@ -46,6 +46,7 @@ I want to make difference and willing to work hard for skillful career rather th
 ### 🔭 you can explore me here in details...
 
 > ### https://www.bumtfolio.com/
+> ### https://velog.io/@chb1828/
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
